@@ -6,7 +6,7 @@
 body {
 	font-family: Pompadur;/*'nameFont, with "@font-face { font-famile: ;}" '*/
 	text-align: justify;
-	font-size: 18px;
+	font-size: 20px;
 	margin: 0;
 }
 
@@ -55,6 +55,10 @@ div div {
 	padding: 0 0 0;
 }
 
+footer {
+	padding: 0 0 1px 0;
+}
+
 .logoItil {
 	height: 70px;
 }
@@ -96,7 +100,7 @@ div div {
 	background:#D3D3D3;/*#DC143C*/
 	color: #808080;/*#FFFFFF*/
 
-	margin: -4px 0;
+	margin: -7px 0;
 	padding: 0 20px 20px 40px;
 	border: 1px solid #999999;
 
